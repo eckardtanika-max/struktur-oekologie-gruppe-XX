@@ -5,7 +5,7 @@ One entry per stage. Short is fine. The log is part of the submission and the ba
 
 ## Etappe 0
 
-- **Was wir gemacht haben:**
+- **Was wir gemacht haben: git hub gruppe eingerichtet(collaborators) / rhino modell stockerau export
 - **Wichtigste Prompts** (wörtlich kopieren):
 - **Was schiefging und woran wir es gemerkt haben:**
 - **Was wir selbst geprüft haben** (von Hand, im Plan, im Modell):
